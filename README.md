@@ -1,1 +1,1 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20There%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+<img width="883" height="300" alt="image-2" src="https://github.com/user-attachments/assets/38a708a2-8663-4169-beed-81621ed5ebae" />
