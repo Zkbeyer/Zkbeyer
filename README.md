@@ -8,7 +8,9 @@ Banner Goes Here
   <!-- C, C#, C++, Python, JavaScript, Java, SQL, Swift, Assembly, HTML/CSS, Typescript -->
   <!--React, Node.js, FastAPI, Express, .NET-->
   <!-- Git, VS Code, Visual Studio, IntelliJ, Xcode, Arduino -->
-<img src="/gif/icons8-c-programming-100.png" width="50"> <!-- C -->
-<img src="/gif/js.gif" width="50"> <!--js-->
+<img src="/gif/icons8-c-programming-100.png" width="70"> <!-- C -->
+<img src="/gif/icons8-c-sharp-logo-100.png" width="70"> <!-- C#-->
+<img src="/gif/js.gif" width="70"> <!--js-->
+
 
 </div>
