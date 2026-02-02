@@ -34,7 +34,7 @@ interests: ["Lifting", "Football", "Gaming", "Cinema"]
 
 
 <!-- my skills -->
-<div align="center">
+<div style="display: flex; flex-direction: row;">
 
 <!--programming languages-->
 <div align="center">
