@@ -36,7 +36,7 @@ interests: ["Lifting", "Football", "Gaming", "Cinema"]
 <!-- my skills -->
 
 <!--programming languages-->
-<div align="center">
+<div>
   <!-- C, C#, C++, Python, JavaScript, Java, Swift HTML/CSS, Typescript -->
 <img src="/gif/icons8-c-programming-100.png" width="50"> <!-- C -->
 <img src="/gif/icons8-c-sharp-logo-100.png" width="50"> <!-- C#-->
