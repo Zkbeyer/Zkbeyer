@@ -11,6 +11,7 @@ Banner Goes Here
 <img src="/gif/icons8-c-programming-100.png" width="70"> <!-- C -->
 <img src="/gif/icons8-c-sharp-logo-100.png" width="70"> <!-- C#-->
 <img src="/gif/c++.png" width="70"> <!-- C++-->
+<img src="/gif/python.gif" width="70"> <!--Python-->
 <img src="/gif/js.gif" width="70"> <!--js-->
 
 
