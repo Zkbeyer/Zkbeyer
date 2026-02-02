@@ -8,9 +8,9 @@ name: Zackery Beyer
 education: 
   [ 
   "University of Missouri - Columbia",
-  "BS in Computer Science",
-  "minors in Math, Statistics, Data Science",
-  "certificate of Web and Mobile Applications Development",
+  "BS in: Computer Science",
+  "minors in: Math, Statistics, Data Science",
+  "certificate of: Web and Mobile Applications Development",
   ]
 fields_of_interest:
   [
@@ -25,6 +25,9 @@ technical_background:
   [
   "embedded software engineer: Garmin"
   ]
+
+currently_learning: ["C#", "C++", ".NET", "Swtift"]
+interests: ["Lifting", "Football", "Gaming", "Cinema"]
 ```
 
 
