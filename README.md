@@ -18,7 +18,10 @@ CS student (3.9+ GPA) focused on software engineering, embedded/low-level system
 |-----------------------------------|
 | <p align="center"><img src="/img/rewind.png" width="400"/></p> | 
 | Personalized Spotify Wrapped–style reports using real listening data and AI-generated insights. | 
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?logo=spotify&logoColor=white) ![AI](https://img.shields.io/badge/AI-8A2BE2) | |
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?logo=spotify&logoColor=white) ![AI](https://img.shields.io/badge/AI-8A2BE2) |
+|[![Repo](https://img.shields.io/badge/View_Repo-GitHub-black?logo=github)](https://github.com/Zkbeyer/Rewind.git)|
+
+
 
 ## Stuff I Use:
 <!--ides-->
