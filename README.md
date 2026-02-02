@@ -34,6 +34,7 @@ interests: ["Lifting", "Football", "Gaming", "Cinema"]
 
 
 <!-- my skills -->
+<div align="center">
 
 <!--programming languages-->
 <div align="center">
@@ -72,5 +73,7 @@ interests: ["Lifting", "Football", "Gaming", "Cinema"]
 <img src="/gif/xcode.png" width="50"> <!--xCode-->
 <img src="/gif/arduino.png" width="50"> <!--Arduino-->
 
+
+</div>
 
 </div>
