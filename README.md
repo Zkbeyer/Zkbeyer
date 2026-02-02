@@ -1,38 +1,3 @@
-<div align="center">
-Banner Goes Here
-</div>
-
-
-```yaml
-name: Zackery Beyer
-hometown: Mahomet, IL
-current_job: Fulltime Student
-education: 
-  [ 
-  "University of Missouri - Columbia",
-  "BS: Computer Science",
-  "Minor: Math, Statistics, Data Science",
-  "Certificate: Web and Mobile Applications Development",
-  ]
-fields_of_interest:
-  [
-  "Web Development",
-  "Embedded Engineering",
-  "Data Science",
-  "Machine Learning",
-  "Game Development"
-  ]
-
-technical_background:
-  [
-  "embedded software engineer intern: Garmin"
-  "web developer: small business"
-  ]
-
-currently_learning: ["C#", "C++", ".NET", "Swtift"]
-interests: ["Lifting", "Football", "Gaming", "Cinema", "Creating"]
-```
-
 
 <!-- my skills -->
 
