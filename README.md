@@ -9,7 +9,7 @@
 ## About Me
 CS student (3.9+ GPA) focused on software engineering, embedded/low-level systems, and full-stack development. I am learning to build practical projects in C/C++, C#, .NET, Swift, and JavaScript/TypeScript, with interests in developer tooling, data systems, and performance-oriented software. Always learning, always building.
 
-## Featured Projects
+## Featured Project
 
 | 🎵 **AI Spotify Wrapped Generator** |
 |-----------------------------------|
