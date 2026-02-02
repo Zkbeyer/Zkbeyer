@@ -13,6 +13,7 @@ Banner Goes Here
 <img src="/gif/c++.png" width="70"> <!-- C++-->
 <img src="/gif/python.gif" width="70"> <!--Python-->
 <img src="/gif/js.gif" width="70"> <!--js-->
+<img src="/gif/java.gif" width="70"> <!--java-->
 
 
 </div>
