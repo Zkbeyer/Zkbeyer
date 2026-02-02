@@ -10,9 +10,9 @@ current_job: Fulltime Student
 education: 
   [ 
   "University of Missouri - Columbia",
-  "BS in: Computer Science",
-  "minors in: Math, Statistics, Data Science",
-  "certificate of: Web and Mobile Applications Development",
+  "BS: Computer Science",
+  "Minor: Math, Statistics, Data Science",
+  "Certificate: Web and Mobile Applications Development",
   ]
 fields_of_interest:
   [
@@ -25,11 +25,12 @@ fields_of_interest:
 
 technical_background:
   [
-  "embedded software engineer: Garmin"
+  "embedded software engineer intern: Garmin"
+  "web developer: small business"
   ]
 
 currently_learning: ["C#", "C++", ".NET", "Swtift"]
-interests: ["Lifting", "Football", "Gaming", "Cinema"]
+interests: ["Lifting", "Football", "Gaming", "Cinema", "Creating"]
 ```
 
 
