@@ -12,24 +12,6 @@ education:
   "minors in Math, Statistics, Data Science",
   "certificate of Web and Mobile Applications Development",
   ]
-
-fields_of_interest:
-  [
-  "Web Development",
-  "Embedded Engineering",
-  "Data Science",
-  "Machine Learning",
-  "Game Development"
-  ]
-
-technical_background:
-  [
-  "embedded software engineer: Garmin"
-  ]
-
-currently_learning: []
-2026 goals: []
-hobbies: []
 ```
 </div>
 
