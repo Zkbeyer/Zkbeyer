@@ -8,7 +8,6 @@ Banner Goes Here
 My Used Languages:
 <div align="center">
   <!-- C, C#, C++, Python, JavaScript, Java, Swift HTML/CSS, Typescript -->
-  <!-- Git, VS Code, Visual Studio, IntelliJ, Xcode, Arduino -->
 <img src="/gif/icons8-c-programming-100.png" width="50"> <!-- C -->
 <img src="/gif/icons8-c-sharp-logo-100.png" width="50"> <!-- C#-->
 <img src="/gif/c++.png" width="50"> <!-- C++-->
@@ -29,6 +28,20 @@ My Used Frameworks:
 <img src="/gif/node.gif" width="50"> <!--node-->
 <img src="/gif/fastapi.svg" width="50"> <!--fastapi-->
 <img src="/gif/icons8-.net-framework-144.png" width="50"> <!--.net-->
+
+
+</div>
+
+<!--dev tools-->
+<div align="center">
+<!-- Git, VS Code, Visual Studio, IntelliJ, Xcode, Arduino -->
+<img src="/gif/git.gif" width="50"> <!--Git-->
+<img src="/gif/github.gif" width="50"> <!--github-->
+<img src="/gif/vscode.gif" width="50"> <!--vscode-->
+<img src="/gif/fastapi.svg" width="50"> <!--visual studio-->
+<img src="/gif/fastapi.svg" width="50"> <!--IntelliJ-->
+<img src="/gif/fastapi.svg" width="50"> <!--xCode-->
+<img src="/gif/fastapi.svg" width="50"> <!--Arduino-->
 
 
 </div>
