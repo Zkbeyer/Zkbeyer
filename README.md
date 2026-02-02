@@ -47,13 +47,11 @@ interests: ["Lifting", "Football", "Gaming", "Cinema"]
 <img src="/gif/swift-programming-language-icon.png" width="40"> <!--swift-->
 <img src="/gif/html.gif" width="50"> <!--html-->
 <img src="/gif/css.gif" width="50"> <!--css-->
-
 <!--React, Node.js, FastAPI, Express, .NET-->
 <img src="/gif/react.gif" width="50"> <!--react-->
 <img src="/gif/node.gif" width="50"> <!--node-->
 <img src="/gif/fastapi.svg" width="50"> <!--fastapi-->
 <img src="/gif/icons8-.net-framework-144.png" width="50"> <!--.net-->
-
 <!-- Git, VS Code, Visual Studio, IntelliJ, Xcode, Arduino -->
 <img src="/gif/git.gif" width="50"> <!--Git-->
 <img src="/gif/github.gif" width="50"> <!--github-->
@@ -62,5 +60,4 @@ interests: ["Lifting", "Football", "Gaming", "Cinema"]
 <img src="/gif/icons8-intellij-idea-144.png" width="50"> <!--IntelliJ-->
 <img src="/gif/xcode.png" width="50"> <!--xCode-->
 <img src="/gif/arduino.png" width="50"> <!--Arduino-->
-
 </div>
