@@ -39,7 +39,7 @@ interests: ["Lifting", "Football", "Gaming", "Cinema", "Creating"]
 <!--programming languages-->
 <div>
   <!-- C, C#, C++, Python, JavaScript, Java, Swift HTML/CSS, Typescript -->
-My Languages:
+##Languages:
 <img src="/gif/icons8-c-programming-100.png" width="50"> <!-- C -->
 <img src="/gif/icons8-c-sharp-logo-100.png" width="50"> <!-- C#-->
 <img src="/gif/c++.png" width="50"> <!-- C++-->
@@ -51,14 +51,14 @@ My Languages:
 <img src="/gif/css.gif" width="50"> <!--css-->
   
 <!--React, Node.js, FastAPI, Express, .NET-->
-My Frameworks:
+##Frameworks:
 <img src="/gif/react.gif" width="50"> <!--react-->
 <img src="/gif/node.gif" width="50"> <!--node-->
 <img src="/gif/fastapi.svg" width="50"> <!--fastapi-->
 <img src="/gif/icons8-.net-framework-144.png" width="50"> <!--.net-->
   
 <!-- Git, VS Code, Visual Studio, IntelliJ, Xcode, Arduino -->
-My Dev Tools:
+##Dev Tools:
 <img src="/gif/git.gif" width="50"> <!--Git-->
 <img src="/gif/github.gif" width="50"> <!--github-->
 <img src="/gif/vscode.gif" width="50"> <!--vscode-->
