@@ -5,7 +5,6 @@ Banner Goes Here
 <!-- my skills -->
 
 <!--programming languages-->
-My Used Languages:
 <div align="center">
   <!-- C, C#, C++, Python, JavaScript, Java, Swift HTML/CSS, Typescript -->
 <img src="/gif/icons8-c-programming-100.png" width="50"> <!-- C -->
@@ -21,7 +20,6 @@ My Used Languages:
 </div>
 
 <!-- frameworks-->
-My Used Frameworks:
 <div align="center">
 <!--React, Node.js, FastAPI, Express, .NET-->
 <img src="/gif/react.gif" width="50"> <!--react-->
