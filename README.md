@@ -34,7 +34,6 @@ interests: ["Lifting", "Football", "Gaming", "Cinema"]
 
 
 <!-- my skills -->
-<div style="display: flex; flex-direction: row;">
 
 <!--programming languages-->
 <div align="center">
@@ -49,21 +48,12 @@ interests: ["Lifting", "Football", "Gaming", "Cinema"]
 <img src="/gif/html.gif" width="50"> <!--html-->
 <img src="/gif/css.gif" width="50"> <!--css-->
 
-</div>
-
-<!-- frameworks-->
-<div align="center">
 <!--React, Node.js, FastAPI, Express, .NET-->
 <img src="/gif/react.gif" width="50"> <!--react-->
 <img src="/gif/node.gif" width="50"> <!--node-->
 <img src="/gif/fastapi.svg" width="50"> <!--fastapi-->
 <img src="/gif/icons8-.net-framework-144.png" width="50"> <!--.net-->
 
-
-</div>
-
-<!--dev tools-->
-<div align="center">
 <!-- Git, VS Code, Visual Studio, IntelliJ, Xcode, Arduino -->
 <img src="/gif/git.gif" width="50"> <!--Git-->
 <img src="/gif/github.gif" width="50"> <!--github-->
@@ -72,8 +62,5 @@ interests: ["Lifting", "Football", "Gaming", "Cinema"]
 <img src="/gif/icons8-intellij-idea-144.png" width="50"> <!--IntelliJ-->
 <img src="/gif/xcode.png" width="50"> <!--xCode-->
 <img src="/gif/arduino.png" width="50"> <!--Arduino-->
-
-
-</div>
 
 </div>
