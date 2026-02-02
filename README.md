@@ -5,6 +5,8 @@ Banner Goes Here
 
 ```yaml
 name: Zackery Beyer
+hometown: Mahomet, IL
+current_job: Fulltime Student
 education: 
   [ 
   "University of Missouri - Columbia",
