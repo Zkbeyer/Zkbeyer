@@ -37,7 +37,7 @@ interests: ["Lifting", "Football", "Gaming", "Cinema", "Creating"]
 <!-- my skills -->
 
 <!--programming languages-->
-##What I Use:
+<h3>What I Use:</h3>
 <div>
   <!-- C, C#, C++, Python, JavaScript, Java, Swift HTML/CSS, Typescript -->
 <img src="/gif/icons8-c-programming-100.png" width="60"> <!-- C -->
