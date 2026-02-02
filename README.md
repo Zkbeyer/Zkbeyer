@@ -1,3 +1,5 @@
+[size]: 50
+
 <div align="center">
 Banner Goes Here
 </div>
@@ -8,9 +10,9 @@ Banner Goes Here
   <!-- C, C#, C++, Python, JavaScript, Java, Swift HTML/CSS, Typescript -->
   <!--React, Node.js, FastAPI, Express, .NET-->
   <!-- Git, VS Code, Visual Studio, IntelliJ, Xcode, Arduino -->
-<img src="/gif/icons8-c-programming-100.png" width="75"> <!-- C -->
-<img src="/gif/icons8-c-sharp-logo-100.png" width="70"> <!-- C#-->
-<img src="/gif/c++.png" width="70"> <!-- C++-->
+<img src="/gif/icons8-c-programming-100.png" width=[size]> <!-- C -->
+<img src="/gif/icons8-c-sharp-logo-100.png" width=[size]> <!-- C#-->
+<img src="/gif/c++.png" width=[size]> <!-- C++-->
 <img src="/gif/python.gif" width="70"> <!--Python-->
 <img src="/gif/js.gif" width="70"> <!--js-->
 <img src="/gif/java.gif" width="65"> <!--java-->
