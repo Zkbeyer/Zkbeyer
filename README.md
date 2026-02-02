@@ -1,10 +1,13 @@
-# Hi 👋, I'm Zack Beyer
-***I am a Computer Science Major From The University of Missouri - Columbia***
+<div align="center">
+<h1>Hi 👋, I'm Zack Beyer</h1>
+<h3>I am a Computer Science Major From The University of Missouri - Columbia</h3>
 
 <!-- connect -->
 #### Connect with Me:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/zackery-beyer)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zkbeyer/)
+</div>
+
 
 ## About Me
 CS student (3.9+ GPA) focused on software engineering, embedded/low-level systems, and full-stack development. I am learning to build practical projects in C/C++, C#, .NET, Swift, and JavaScript/TypeScript, with interests in developer tooling, data systems, and performance-oriented software. Always learning, always building.
