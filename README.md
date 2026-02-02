@@ -38,10 +38,10 @@ My Used Frameworks:
 <img src="/gif/git.gif" width="50"> <!--Git-->
 <img src="/gif/github.gif" width="50"> <!--github-->
 <img src="/gif/vscode.gif" width="50"> <!--vscode-->
-<img src="/gif/fastapi.svg" width="50"> <!--visual studio-->
-<img src="/gif/fastapi.svg" width="50"> <!--IntelliJ-->
-<img src="/gif/fastapi.svg" width="50"> <!--xCode-->
-<img src="/gif/fastapi.svg" width="50"> <!--Arduino-->
+<img src="/gif/icons8-visual-studio-96.png" width="50"> <!--visual studio-->
+<img src="/gif/icons8-intellij-idea-144.png" width="50"> <!--IntelliJ-->
+<img src="/gif/xcode.png" width="50"> <!--xCode-->
+<img src="/gif/arduino.png" width="50"> <!--Arduino-->
 
 
 </div>
