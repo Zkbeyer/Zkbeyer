@@ -11,8 +11,6 @@ CS student (3.9+ GPA) focused on software engineering, embedded/low-level system
 
 ## Featured Projects
 
-## 🚀 Featured Project
-
 | 🎵 **AI Spotify Wrapped Generator** |
 |-----------------------------------|
 | <p align="center"><img src="/img/rewind.png" width="400"/></p> | 
