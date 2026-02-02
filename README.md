@@ -14,7 +14,7 @@ Banner Goes Here
 <img src="/gif/python.gif" width="70"> <!--Python-->
 <img src="/gif/js.gif" width="70"> <!--js-->
 <img src="/gif/java.gif" width="65"> <!--java-->
-<img src="/gif/swift.png" width="70"> <!--swift-->
+<img src="/gif/swift-programming-language-icon.png" width="70"> <!--swift-->
 
 
 </div>
