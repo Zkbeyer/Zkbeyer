@@ -13,8 +13,8 @@ Banner Goes Here
 <img src="/gif/c++.png" width="50"> <!-- C++-->
 <img src="/gif/python.gif" width="50"> <!--Python-->
 <img src="/gif/js.gif" width="50"> <!--js-->
-<img src="/gif/java.gif" width="50"> <!--java-->
-<img src="/gif/swift-programming-language-icon.png" width="50"> <!--swift-->
+<img src="/gif/java.gif" width="40"> <!--java-->
+<img src="/gif/swift-programming-language-icon.png" width="40"> <!--swift-->
 <img src="/gif/html.gif" width="50"> <!--html-->
 <img src="/gif/css.gif" width="50"> <!--css-->
 
