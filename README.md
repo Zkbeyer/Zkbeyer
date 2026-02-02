@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20There%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
