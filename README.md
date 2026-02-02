@@ -2,7 +2,7 @@
 Banner Goes Here
 </div>
 
-<div>
+
 ```yaml
 name: Zackery Beyer
 education: 
@@ -12,8 +12,21 @@ education:
   "minors in Math, Statistics, Data Science",
   "certificate of Web and Mobile Applications Development",
   ]
+fields_of_interest:
+  [
+  "Web Development",
+  "Embedded Engineering",
+  "Data Science",
+  "Machine Learning",
+  "Game Development"
+  ]
+
+technical_background:
+  [
+  "embedded software engineer: Garmin"
+  ]
 ```
-</div>
+
 
 <!-- my skills -->
 
