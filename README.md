@@ -1,4 +1,6 @@
-
+<div>
+# I'm Zack 👋
+** Computer Science Student at the University of Missouri - Columbia **
 <!-- my skills -->
 
 <!--programming languages-->
@@ -29,4 +31,6 @@
 <img src="/gif/icons8-intellij-idea-144.png" width="60"> <!--IntelliJ-->
 <img src="/gif/xcode.png" width="60"> <!--xCode-->
 <img src="/gif/arduino.png" width="60"> <!--Arduino-->
+</div>
+
 </div>
