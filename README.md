@@ -27,6 +27,8 @@ My Used Frameworks:
 <!--React, Node.js, FastAPI, Express, .NET-->
 <img src="/gif/react.gif" width="50"> <!--react-->
 <img src="/gif/node.gif" width="50"> <!--node-->
+<img src="/gif/fastapi.svg" width="50"> <!--fastapi-->
+<img src="/gif/icons8-.net-framework-144.png" width="50"> <!--.net-->
 
 
 </div>
