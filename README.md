@@ -4,6 +4,7 @@
 
 <!-- connect -->
 #### Connect with Me:
+[![Website](https://img.shields.io/badge/Portfolio-111111?logo=google-chrome&logoColor=white)](https://zkbeyer.github.io/Portfolio/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/zackery-beyer)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zkbeyer/)
 </div>
