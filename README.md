@@ -13,6 +13,8 @@
 ## About Me
 CS student (3.9+ GPA) focused on software engineering, embedded/low-level systems, and full-stack development. I am learning to build practical projects in C/C++, C#, .NET, Swift, and JavaScript/TypeScript, with interests in developer tooling, data systems, and performance-oriented software. Always learning, always building.
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Zkbeyer&label=Profile%20Views&color=E58F65&style=flat)
 ## Featured Project
 
 | 🎵 **AI Spotify Wrapped Generator** |
@@ -21,7 +23,6 @@ CS student (3.9+ GPA) focused on software engineering, embedded/low-level system
 | Personalized Spotify Wrapped–style reports using real listening data and AI-generated insights. | 
 | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?logo=spotify&logoColor=white) ![AI](https://img.shields.io/badge/AI-8A2BE2) |
 |[![Repo](https://img.shields.io/badge/View_Repo-GitHub-black?logo=github)](https://github.com/Zkbeyer/Rewind.git)|
-
 
 
 ## Stuff I Use:
