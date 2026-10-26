@@ -1,56 +1,49 @@
 <div align="center">
-<h1>Hi 👋, I'm Zack Beyer</h1>
-<h3>I am a Computer Science Major From The University of Missouri - Columbia</h3>
 
-<!-- connect -->
-#### Connect with Me:
-[![Website](https://img.shields.io/badge/Portfolio-E58F65?logo=google-chrome&logoColor=white)](https://zkbeyer.github.io/Portfolio/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/zackery-beyer)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zkbeyer/)
+<img src="img/header.svg" alt="Zack Beyer — platform & backend engineer" width="100%"/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E2246?style=flat-square&logo=googlechrome&logoColor=F2A65A)](https://zkbeyer.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E2246?style=flat-square&logo=linkedin&logoColor=F2A65A)](https://www.linkedin.com/in/zackery-beyer)
+[![Homelab](https://img.shields.io/badge/ailuruslab.dev-1E2246?style=flat-square&logo=raspberrypi&logoColor=F2A65A)](https://ailuruslab.dev)
+
 </div>
 
+### `$ whoami`
 
-## About Me
-CS student (3.9+ GPA) focused on software engineering, embedded/low-level systems, and full-stack development. I am learning to build practical projects in C/C++, C#, .NET, Swift, and JavaScript/TypeScript, with interests in developer tooling, data systems, and performance-oriented software. Always learning, always building.
+CS + Math @ Mizzou (Dec 2026) → incoming Software Engineer at **Garmin**, Aviation Databases.
 
+I like the layer under the app: services that keep running, pipelines that stay fresh without babysitting, and dashboards that tell you *why* something broke. Most of what I build starts as "this should run itself" and ends up on a Raspberry Pi in my apartment.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zkbeyer&label=Profile%20Views&color=E58F65&style=flat)
-## Featured Project
+### 🌙 Featured — MU Planner
 
-| 🎵 **AI Spotify Wrapped Generator** |
-|-----------------------------------|
-| <p align="center"><img src="/img/rewind.png" width="400"/></p> | 
-| Personalized Spotify Wrapped–style reports using real listening data and AI-generated insights. | 
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?logo=spotify&logoColor=white) ![AI](https://img.shields.io/badge/AI-8A2BE2) |
-|[![Repo](https://img.shields.io/badge/View_Repo-GitHub-black?logo=github)](https://github.com/Zkbeyer/Rewind.git)|
+<table>
+<tr><td>
 
+**A course planner for Mizzou students — 100+ real users, $0/month to run.**
 
-## Stuff I Use:
-<!--ides-->
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+Python scrapers pull the course catalog, GitHub Actions re-runs them on a schedule, and the results ship as static JSON to a Next.js front end. No database, no server, no bill. All planning state lives in the browser, so there's nothing to secure or migrate.
 
-<!--database-->
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+![Next.js](https://img.shields.io/badge/Next.js-1E2246?style=flat-square&logo=nextdotjs&logoColor=F2A65A) ![Python](https://img.shields.io/badge/Python-1E2246?style=flat-square&logo=python&logoColor=F2A65A) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E2246?style=flat-square&logo=githubactions&logoColor=F2A65A) ![Cloudflare](https://img.shields.io/badge/Cloudflare-1E2246?style=flat-square&logo=cloudflare&logoColor=F2A65A)
 
-<!--framework-->
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[**Live →** mu.ailuruslab.dev](https://mu.ailuruslab.dev) · [Repo](https://github.com/zkbeyer/MU-Planner)
 
-<!--languages-->
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+</td></tr>
+</table>
+
+### 🛠️ Also on the desk
+
+| Project | What it is |
+|---|---|
+| **[FaultInjector](https://github.com/zkbeyer/FaultInjector)** | Chaos-engineering reverse proxy in .NET — injects latency, errors, and drops between services to see what actually breaks. |
+| **Homelab** · [ailuruslab.dev](https://ailuruslab.dev) | k3s on a Raspberry Pi 5 with a custom Go service for health checks, backups, and recovery. Prometheus / Grafana / Loki for observability. Hosts a Minecraft server my friends actually play on. |
+| **[Rewind](https://github.com/zkbeyer/Rewind)** | Spotify Wrapped, but whenever you want — real listening data plus AI-written takes on your taste. |
+
+### 🧰 Toolbox
+
+**Languages** &nbsp; ![Go](https://img.shields.io/badge/Go-1E2246?style=flat-square&logo=go&logoColor=F2A65A) ![Python](https://img.shields.io/badge/Python-1E2246?style=flat-square&logo=python&logoColor=F2A65A) ![C++](https://img.shields.io/badge/C%2B%2B-1E2246?style=flat-square&logo=cplusplus&logoColor=F2A65A) ![C#](https://img.shields.io/badge/C%23-1E2246?style=flat-square&logo=dotnet&logoColor=F2A65A) ![TypeScript](https://img.shields.io/badge/TypeScript-1E2246?style=flat-square&logo=typescript&logoColor=F2A65A) ![SQL](https://img.shields.io/badge/SQL-1E2246?style=flat-square&logo=postgresql&logoColor=F2A65A)
+
+**Infra & ops** &nbsp; ![Kubernetes (k3s)](https://img.shields.io/badge/Kubernetes_%28k3s%29-1E2246?style=flat-square&logo=k3s&logoColor=F2A65A) ![Docker](https://img.shields.io/badge/Docker-1E2246?style=flat-square&logo=docker&logoColor=F2A65A) ![Prometheus](https://img.shields.io/badge/Prometheus-1E2246?style=flat-square&logo=prometheus&logoColor=F2A65A) ![Grafana](https://img.shields.io/badge/Grafana-1E2246?style=flat-square&logo=grafana&logoColor=F2A65A) ![Loki](https://img.shields.io/badge/Loki-1E2246?style=flat-square&logo=grafana&logoColor=F2A65A) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1E2246?style=flat-square&logo=githubactions&logoColor=F2A65A) ![AWS](https://img.shields.io/badge/AWS-1E2246?style=flat-square) ![Cloudflare](https://img.shields.io/badge/Cloudflare-1E2246?style=flat-square&logo=cloudflare&logoColor=F2A65A)
+
+**Web & data** &nbsp; ![Next.js](https://img.shields.io/badge/Next.js-1E2246?style=flat-square&logo=nextdotjs&logoColor=F2A65A) ![React](https://img.shields.io/badge/React-1E2246?style=flat-square&logo=react&logoColor=F2A65A) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1E2246?style=flat-square&logo=dotnet&logoColor=F2A65A) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E2246?style=flat-square&logo=postgresql&logoColor=F2A65A) ![Supabase](https://img.shields.io/badge/Supabase-1E2246?style=flat-square&logo=supabase&logoColor=F2A65A) ![Stripe](https://img.shields.io/badge/Stripe-1E2246?style=flat-square&logo=stripe&logoColor=F2A65A)
+
+<div align="center"><sub>currently: Go, distributed systems, and making the homelab survive a power outage</sub></div>
