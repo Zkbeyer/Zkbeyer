@@ -14,11 +14,17 @@ CS + Math at Mizzou, graduating Dec 2026. Joining Garmin full-time as a Software
 
 ### Featured: MU Planner
 
-<a href="https://mu.ailuruslab.dev"><img src="img/mu-planner.webp" alt="MU Planner" width="100%"/></a>
-
+<table>
+<tr><td align="center">
+<a href="https://mu.ailuruslab.dev"><img src="img/mu-planner.webp" alt="MU Planner" width="420"/></a>
+</td></tr>
+<tr><td>
 Course planner for Mizzou students, 100+ users. Python ETL scrapers merge the course catalog and RateMyProfessors into one schema, refreshed on scheduled GitHub Actions, behind a static Next.js frontend.
-
-[Live](https://mu.ailuruslab.dev) · [Source](https://github.com/Zkbeyer/mu-planner)
+</td></tr>
+<tr><td align="center">
+<a href="https://mu.ailuruslab.dev">Live</a> · <a href="https://github.com/Zkbeyer/mu-planner">Source</a>
+</td></tr>
+</table>
 
 ### Other Projects
 
